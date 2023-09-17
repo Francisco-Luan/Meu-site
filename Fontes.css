@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+
+@font-face {
+    font-family: 'nixi';
+    src: url('fontes/NixieOne.ttf') format('truetype');
+    
+}
+
+
+h1 {
+    font-family: 'nixi', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    box-shadow: #027373;
+    
+}
+
+h2 {
+    font-family: 'nixi';
+}
+
+h3 {
+    font-family: 'nixi';
+}
+
+#principal {
+    text-align: center;
+    background-color: rgba(35, 158, 189, 0.658);
+    border-radius: 10px;
+    border-width: 30%;
+    box-shadow: #e8f0f0;
+    color: rgb(26, 24, 24);
+    
+    
+}
+
+#secundario {
+    text-align: center;
+    background-color: rgba(35, 158, 189, 0.658);
+    border-radius: 20px;
+    box-shadow: #e8f0f0;
+    color: rgb(26, 24, 24);
+    border-radius: 10px;
+}
+
+footer {
+    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+footer > p {
+    text-align: center;    
+}
