@@ -29,7 +29,7 @@ h2 {
 
 #principal {
     text-align: center;
-    background-color: rgba(35, 158, 189, 0.658);
+    background-image: linear-gradient(to right, rgb(181, 188, 250),  rgb(6, 131, 139), rgb(33, 173, 96));
     border-radius: 10px;
     border-width: 30%;
     box-shadow: #e8f0f0;
@@ -41,7 +41,7 @@ h2 {
 
 #secundario {
     text-align: center;
-    background-color: rgba(35, 158, 189, 0.658);
+    background-image: linear-gradient(to right, rgb(181, 188, 250),  rgb(6, 131, 139), rgb(33, 173, 96));
     border-radius: 10px;
     border-width: 30%;
     box-shadow: #e8f0f0;
